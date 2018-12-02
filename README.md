@@ -1,15 +1,17 @@
 #README
 
-##What is it?
+What is it?
+---------------
 AndroidOpenGLES is a android app which create a C++ opengle context to render 2D/3D object. 
 
-##Project Enviroment:
-
+Project Enviroment:
+------------------------
 * Android Studio 3.2.1
 * NDK 16rb
 * cmake
 
-##TODO
+TODO
+--------------------------------
 * <del>android studio ndk use example<del>
 	
 	```
